@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there 👋 My name is Zakaria Yacoubi
+
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&email=hide&login=zyacoubi)](https://github.com/mohouyizme/1337-readme)
 
 <!--
 **YOPll/YOPll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
