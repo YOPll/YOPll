@@ -23,11 +23,6 @@
  <img src="/logos/instagram.png" width="50" />
 </a>
 
-<!-- GitHub Stats Card      -->
-<a href="https://github.com/AyoubHolmes">
-  <img align="center" alt="Github stats Card" src="https://github-readme-stats.vercel.app/api?username=YOPll&line_height=40&show_icons=true&theme=dark" />
-</a>
-
 <!-- Top Languages Card      -->
 <a href="">
   <img align="center" alt="Top Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOPll&theme=dark" />
