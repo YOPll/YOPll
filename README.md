@@ -5,22 +5,22 @@
 
 # Let's connect
 <a href="https://www.linkedin.com/in/zyacoubi">
- <img src="/logos/linkedin.png" width="50" />
+ <img src="/logos/linkedin.png" width="40" />
 </a>
 <a href="https://github.com/YOPll">
- <img src="/logos/github-logo.png" width="50" />
+ <img src="/logos/github-logo.png" width="40" />
 </a>
 <a href="https://www.facebook.com/Yopi.Mrx">
- <img src="/logos/facebook.png" width="50" />
+ <img src="/logos/facebook.png" width="40" />
 </a>
 <a href="zyacoubi1337@gmail.com">
- <img src="/logos/google-plus.png" width="50" />
+ <img src="/logos/google-plus.png" width="40" />
 </a>
 <a href="https://twitter.com/Ga10Mrx">
- <img src="/logos/twitter.png" width="50" />
+ <img src="/logos/twitter.png" width="40" />
 </a>
 <a href="https://www.instagram.com/yopi.v.2/">
- <img src="/logos/instagram.png" width="50" />
+ <img src="/logos/instagram.png" width="40" />
 </a>
 
 <!-- Top Languages Card      -->
