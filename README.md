@@ -2,6 +2,13 @@
 <p align="center"> 
   <img src="https://user-images.githubusercontent.com/49567393/132992023-9715d770-4225-497a-9eea-041e3d037186.gif" /><br><br>
 </p>
+<!-- Top Languages Card      -->
+<a href="">
+  <img align="center" alt="Top Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOPll&theme=dark" />
+</a>
+
+
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&email=hide&login=zyacoubi)](https://github.com/mohouyizme/1337-readme)
 
 # Let's connect
 <a href="https://www.linkedin.com/in/zyacoubi">
@@ -22,15 +29,6 @@
 <a href="https://www.instagram.com/yopi.v.2/">
  <img src="/logos/instagram.png" width="40" />
 </a>
-
-<!-- Top Languages Card      -->
-<a href="">
-  <img align="center" alt="Top Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOPll&theme=dark" />
-</a>
-
-
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&email=hide&login=zyacoubi)](https://github.com/mohouyizme/1337-readme)
-
 <!--
 **YOPll/YOPll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
