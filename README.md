@@ -1,4 +1,38 @@
 # Hi there 👋 My name is Zakaria Yacoubi
+<p align="center"> 
+  <img src="https://user-images.githubusercontent.com/49567393/132992023-9715d770-4225-497a-9eea-041e3d037186.gif" /><br><br>
+</p>
+
+# Let's connect
+<a href="https://www.linkedin.com/in/zyacoubi">
+ <img src="/logos/linkedin.png" width="50" />
+</a>
+<a href="https://github.com/YOPll">
+ <img src="/logos/github-logo.png" width="50" />
+</a>
+<a href="https://www.facebook.com/Yopi.Mrx">
+ <img src="/logos/facebook.png" width="50" />
+</a>
+<a href="zyacoubi1337@gmail.com">
+ <img src="/logos/google-plus.png" width="50" />
+</a>
+<a href="https://twitter.com/Ga10Mrx">
+ <img src="/logos/twitter.png" width="50" />
+</a>
+<a href="https://www.instagram.com/yopi.v.2/">
+ <img src="/logos/instagram.png" width="50" />
+</a>
+
+<!-- GitHub Stats Card      -->
+<a href="https://github.com/AyoubHolmes">
+  <img align="center" alt="Github stats Card" src="https://github-readme-stats.vercel.app/api?username=YOPll&line_height=40&show_icons=true&theme=dark" />
+</a>
+
+<!-- Top Languages Card      -->
+<a href="">
+  <img align="center" alt="Top Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOPll&theme=dark" />
+</a>
+
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&email=hide&login=zyacoubi)](https://github.com/mohouyizme/1337-readme)
 
