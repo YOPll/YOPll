@@ -10,9 +10,8 @@
 <a href="https://github.com/AyoubHolmes">
   <img align="center" alt="Github stats Card" src="https://github-readme-stats.vercel.app/api?username=YOPll&line_height=40&show_icons=true&theme=dark" />
 </a>
-<p align="center">
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=c-piscine&dark=true&login=zyacoubi
-)](https://github.com/mohouyizme/1337-readme) </p>
+)](https://github.com/mohouyizme/1337-readme)
 <!--[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&email=hide&login=zyacoubi)](https://github.com/mohouyizme/1337-readme)-->
 # Let's connect
 <p align="center">
