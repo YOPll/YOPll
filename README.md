@@ -1,4 +1,5 @@
-# Hi there 👋 My name is Zakaria Yacoubi
+# Hi there 👋 My name is *Zakaria Yacoubi* ![image](https://user-images.githubusercontent.com/49567393/136288321-a2d60876-7ce0-404c-92c4-07039f670bb0.png)
+
 <p align="center"> 
   <img src="https://user-images.githubusercontent.com/49567393/132992023-9715d770-4225-497a-9eea-041e3d037186.gif" /><br><br>
 </p>
