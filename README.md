@@ -3,19 +3,20 @@
 <p align="center"> 
   <img src="https://user-images.githubusercontent.com/49567393/132992023-9715d770-4225-497a-9eea-041e3d037186.gif" /><br><br>
 </p>
+<!--
 <!--<details>
 <summary>github stats</summary>
 <div markdown="1"> -->
-<!-- Top Languages Card      -->
+<!-- Top Languages Card      
 <a href="https://github.com/YOPll">
   <img align="center" alt="Top Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOPll&theme=dark" />
 </a>
-<!-- GitHub Stats Card      -->
+<!-- GitHub Stats Card      
 <a href="https://github.com/YOPll">
   <img align="center" alt="Github stats Card" src="https://github-readme-stats.vercel.app/api?username=YOPll&line_height=40&show_icons=true&theme=dark" />
 <!-- </a>
 </div>
-</details> -->
+</details> --> 
 
   
 ![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=c-piscine&dark=true&login=zyacoubi)<a href="https://github.com/YOPll">
