@@ -20,7 +20,8 @@
 
   
 <img align="center" alt="Top Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOPll&theme=dark" />
-</a>![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=c-piscine&dark=true&login=zyacoubi)<a href="https://github.com/YOPll">
+</a>
+![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=c-piscine&dark=true&login=zyacoubi)<a href="https://github.com/YOPll">
 
 <!--[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&email=hide&login=zyacoubi)](https://github.com/mohouyizme/1337-readme)-->
 # Let's connect
