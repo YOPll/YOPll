@@ -25,22 +25,22 @@
 # Let's connect
 <p align="center">
 <a href="https://www.linkedin.com/in/zyacoubi">
- <img src="/logos/linkedin.png" width="40" />
+ <img src="/img/linkedin.png" width="40" />
 </a>
 <a href="https://github.com/YOPll">
- <img src="/logos/github-logo.png" width="40" />
+ <img src="/img/github-logo.png" width="40" />
 </a>
 <a href="https://www.facebook.com/Yopi.Mrx">
- <img src="/logos/facebook.png" width="40" />
+ <img src="/img/facebook.png" width="40" />
 </a>
 <a href="zyacoubi1337@gmail.com">
- <img src="/logos/google-plus.png" width="40" />
+ <img src="/img/google-plus.png" width="40" />
 </a>
 <a href="https://twitter.com/Ga10Mrx">
- <img src="/logos/twitter.png" width="40" />
+ <img src="/img/twitter.png" width="40" />
 </a>
 <a href="https://www.instagram.com/yopi.v.2/">
- <img src="/logos/instagram.png" width="40" />
+ <img src="/img/instagram.png" width="40" />
 </a>
   </p>
 <!--
