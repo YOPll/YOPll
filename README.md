@@ -1,6 +1,4 @@
 # Hi there 👋 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=zyacoubi)](https://github.com/mohouyizme/1337-readme)
-## U can call me YOPI 👨‍💻
 
 <p align="center"> 
   <img src="https://user-images.githubusercontent.com/49567393/132992023-9715d770-4225-497a-9eea-041e3d037186.gif" /><br><br>
@@ -18,7 +16,7 @@
 <!-- </a>
 </div>
 </details> -->
-
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=zyacoubi)](https://github.com/mohouyizme/1337-readme)
  <!-- 
 ![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=c-piscine&dark=true&login=zyacoubi
 ) -->
