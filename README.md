@@ -34,9 +34,6 @@
 <a href="https://www.facebook.com/Yopi.Mrx">
  <img src="/img/facebook.png" width="40" />
 </a>
-<a href="zyacoubi1337@gmail.com">
- <img src="/img/google-plus.png" width="40" />
-</a>
 <a href="https://twitter.com/Ga10Mrx">
  <img src="/img/twitter.png" width="40" />
 </a>
