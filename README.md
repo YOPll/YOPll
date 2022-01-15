@@ -1,5 +1,11 @@
 <h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/49567393/149633910-977f6211-103e-4220-b74d-8bf8cd9a896f.gif" width="30px">, I'm Zakaria Yacoubi, (AKA YOPI)</h1>
 
+<p align="center"> 
+  <img src="https://user-images.githubusercontent.com/49567393/132992023-9715d770-4225-497a-9eea-041e3d037186.gif" /><br><br>
+</p>
+
+ ---
+
 <h1 align="center">About me</h1>
 
 <p align="center">
@@ -10,9 +16,6 @@ The programming and experience of being a teaching assistant changed my thinking
 
  ---
  
-<p align="center"> 
-  <img src="https://user-images.githubusercontent.com/49567393/132992023-9715d770-4225-497a-9eea-041e3d037186.gif" /><br><br>
-</p>
 <!--<details>
 <summary>github stats</summary>
 <div markdown="1"> -->
@@ -55,7 +58,8 @@ The programming and experience of being a teaching assistant changed my thinking
  <img src="/img/instagram.png" width="40" />
 </a>
   </p>
-  
+
+ ---  
 <!--
 **YOPll/YOPll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
