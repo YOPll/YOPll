@@ -14,7 +14,13 @@ I want to be the best I can, giving my best and constantly challenging myself, a
 The programming and experience of being a teaching assistant changed my thinking a lot, besides, of course, making me learn more. I know I can and I offer a lot to people, especially the opportunity to make them grow, be better and change their lives. This move me.
 </p>
 
- ---
+ <div align="center">
+  
+  [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=zyacoubi)](https://github.com/mohouyizme/1337-readme)
+  
+  </div>
+  
+  ---
  
 <!--<details>
 <summary>github stats</summary>
@@ -36,11 +42,6 @@ The programming and experience of being a teaching assistant changed my thinking
 ) -->
  <!--![1337 Readme Logo](/img/badge%201337.svg) -->
 
-<div align="center">
-  
-  [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=zyacoubi)](https://github.com/mohouyizme/1337-readme)
-  
-  </div>
 
  ---
  
