@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/49567393/149633910-977f6211-103e-4220-b74d-8bf8cd9a896f.gif" width="30px">, I'm Zakaria Yacoubi AKA YOPI</h1>
+<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/49567393/149633910-977f6211-103e-4220-b74d-8bf8cd9a896f.gif" width="30px">, I'm Zakaria Yacoubi (**AKA YOPI**)</h1>
 
 ## About me
 <p align="center">
