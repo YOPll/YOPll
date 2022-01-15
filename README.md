@@ -35,9 +35,10 @@ The programming and experience of being a teaching assistant changed my thinking
 ![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=c-piscine&dark=true&login=zyacoubi
 ) -->
  <!--![1337 Readme Logo](/img/badge%201337.svg) -->
-  
+
+   <div align="center">
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=zyacoubi)](https://github.com/mohouyizme/1337-readme)
-  
+     </div>
  ---
  
 # Let's connect
