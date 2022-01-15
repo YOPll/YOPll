@@ -45,7 +45,8 @@ The programming and experience of being a teaching assistant changed my thinking
 
  ---
  
-# Let's connect
+<h1 align="center">Let's connect</h1>
+  
 <p align="center">
 <a href="https://www.linkedin.com/in/zyacoubi">
  <img src="/img/linkedin.png" width="40" />
