@@ -22,16 +22,20 @@ The programming and experience of being a teaching assistant changed my thinking
   
   ---
  
+ 
+ | [![YOPI's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOPLL&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=dracula)](https://github.com/YOPLL?tab=repositories) | [![YOPI's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOPLL&layout=compact&hide_border=true&theme=dracula)](https://github.com/YOPLL?tab=repositories) |
+|:-:|:-:|
+
 <!--<details>
 <summary>github stats</summary>
 <div markdown="1"> -->
 <!-- Top Languages Card      -->
 <a href="https://github.com/YOPll">
-  <img align="center" alt="Top Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOPll&theme=dark" />
+  <img align="center" alt="Top Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOPll&theme=dracula" />
 </a>
 <!-- GitHub Stats Card      -->
 <a href="https://github.com/YOPll">
-  <img align="center" alt="Github stats Card" src="https://github-readme-stats.vercel.app/api?username=YOPll&line_height=40&show_icons=true&theme=dark" />
+  <img align="center" alt="Github stats Card" src="https://github-readme-stats.vercel.app/api?username=YOPll&line_height=40&show_icons=true&theme=dracula" />
 
  
 <!-- </a>
