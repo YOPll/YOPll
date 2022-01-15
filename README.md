@@ -65,7 +65,14 @@ The programming and experience of being a teaching assistant changed my thinking
 </a>
   </p>
 
- ---  
+ ---
+  
+  <p align="center">
+	<img alt="YOPI's visitors" src="https://komarev.com/ghpvc/?username=yopll&color=blue&style=flat&label=visitors" />
+	<img alt="YOPI's followers" src="https://img.shields.io/github/followers/YOPLL?color=blue" />
+	<img alt="YOPI's stars" src="https://img.shields.io/github/stars/yopll?color=blue" />
+</p>
+
 <!--
 **YOPll/YOPll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
