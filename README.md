@@ -1,6 +1,7 @@
-<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/49567393/149633910-977f6211-103e-4220-b74d-8bf8cd9a896f.gif" width="30px">, I'm Zakaria Yacoubi (**AKA YOPI**)</h1>
+<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/49567393/149633910-977f6211-103e-4220-b74d-8bf8cd9a896f.gif" width="30px">, I'm Zakaria Yacoubi, (AKA YOPI)</h1>
 
-## About me
+<h1 align="center">About me</h1>
+
 <p align="center">
 I'm passionate about programming and development, and I'm always wanting to help people reach the next level, to be better always more. Besides being part of my essence, I try to pass it on to people, the feeling of progress and consistency captivates me.<br>
 I want to be the best I can, giving my best and constantly challenging myself, and that's when I feel comfortable, because I know it's an opportunity to evolve. I have clear goals, and goals that I set with my inner self. The main thing is to be better than I was yesterday, this is my biggest enemy.<br>
