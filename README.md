@@ -37,7 +37,7 @@ The programming and experience of being a teaching assistant changed my thinking
 <a href="https://github.com/YOPll">
  <img src="/img/github-logo.png" width="40" />
 </a>
-<a href="https://www.facebook.com/Yopi.Mrx">
+<a href="https://www.facebook.com/zyacoubi">
  <img src="/img/facebook.png" width="40" />
 </a>
 <a href="https://twitter.com/Ga10Mrx">
