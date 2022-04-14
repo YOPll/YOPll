@@ -16,8 +16,7 @@ The programming and experience of being a teaching assistant changed my thinking
 
  <div align="center">
   
-  [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=zyacoubi)](https://github.com/mohouyizme/1337-readme)
-  
+[![ZYACOUBI's 42 stats](https://badge.mediaplus.ma/greenbinary/ZYACOUBI)](https://github.com/oakoudad/badge42)  
   </div>
   
   ---
