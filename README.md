@@ -16,7 +16,7 @@ The programming and experience of being a teaching assistant changed my thinking
 
  <div align="center">
   
-[![ZYACOUBI's 42 stats](https://badge.mediaplus.ma/greenbinary/ZYACOUBI)](https://github.com/oakoudad/badge42)  
+[![ZYACOUBI's 42 stats](https://badge.mediaplus.ma/greenbinary/ZYACOUBI)]
   </div>
   
   ---
