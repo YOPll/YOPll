@@ -39,7 +39,7 @@ The programming and experience of being a teaching assistant changed my thinking
 <a href="https://www.facebook.com/zyacoubi">
  <img src="/img/facebook.png" width="40" />
 </a>
-<a href="https://twitter.com/Ga10Mrx">
+<a href="https://twitter.com/0xYOPI">
  <img src="/img/twitter.png" width="40" />
 </a>
 <a href="https://www.instagram.com/yopi.v.2/">
